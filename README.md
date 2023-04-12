@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/1dmDH0Cxv4ucGoOd5g/giphy.gif" width="200"/>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipolly" alt="lipolly" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipolly&row=2&column=3" alt="lipolly" /></a> </p>
 
 ### 🌐 Connect with me
 
