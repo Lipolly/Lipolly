@@ -13,4 +13,11 @@
 <a href="https://www.hackerearth.com/@lipolly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lipolly" height="30" width="40" /></a>
 </p>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lipolly&show_icons=true&count_private=true&hide_border=true&title_color=0CB02B&icon_color=0CB02B&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipolly&layout=compact&hide_border=true&title_color=0CB02B&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+##
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB02B&height=100&section=footer"/>
