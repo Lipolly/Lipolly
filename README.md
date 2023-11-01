@@ -1,12 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB02B&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=4B0082&center=true&vCenter=true&width=1000&lines=Meu+nome+%C3%A9+Ricardo+Piero+Lippoli+Batista;Tenho+22+anos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0CB02B&center=true&vCenter=true&width=1000&lines=Meu+nome+%C3%A9+Ricardo+Piero+Lippoli+Batista;Tenho+22+anos)](https://git.io/typing-svg)
 
-;
-;
-;
-
-<h1 align="center">Hi 👋, I'm Ricardo Piero (Lipolly)</h1>
 <h3 align="center">A python lover who loves to work on projects to gain as much knowledge as possible</h3>
 
 <div id="header" align="center">
