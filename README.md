@@ -15,6 +15,4 @@
 <a href="https://www.hackerearth.com/@lipolly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lipolly" height="30" width="40" /></a>
 </p>
 
-##
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB02B&height=100&section=footer"/>
